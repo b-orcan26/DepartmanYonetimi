@@ -1,0 +1,15 @@
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.deps.json
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.json
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.runtimeconfig.dev.json
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\DataAccess\bin\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\DataAccess\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\DataAccess\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csprojAssemblyReference.cache
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfoInputs.cache
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.AssemblyInfo.cs
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.csproj.CopyComplete
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.dll
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.pdb
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\DataAccess\obj\Debug\netcoreapp3.1\DataAccess.genruntimeconfig.cache

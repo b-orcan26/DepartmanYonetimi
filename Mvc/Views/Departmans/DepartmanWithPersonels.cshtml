@@ -1,0 +1,74 @@
+﻿@using Entities;
+@model IEnumerable<Departman>
+
+@{
+    ViewData["Title"] = "DepartmanWithPersonels";
+}
+
+<h1>DepartmanWithPersonels</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table border-dark">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.id)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ad)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.id)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ad)
+            </td>
+            <td>
+            </td>
+            <tr>
+            <td>
+                <p class="font-weight-bold text-center">Personeller</p>
+                <div style="text-align:center; display:flex; align-items:center; justify-content:center;">
+                <table class="table mx-auto border-danger">
+                    
+                    <thead>
+                        
+                        <tr>
+                            <th>
+                                ad
+                            </th>
+                            <th>
+                                soyad
+                            </th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var personel in item.personels)
+                        {
+                            <tr>
+                                <td>
+                                    @personel.ad
+                                </td>
+                                <td>
+                                    @personel.soyad
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                    </table>
+                    </div>
+            </td>
+            </tr>
+        </tr>
+}
+    </tbody>
+</table>

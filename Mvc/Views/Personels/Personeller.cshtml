@@ -1,0 +1,48 @@
+﻿@model IEnumerable<Entities.Personel>
+
+@{
+    ViewData["Title"] = "Personeller";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Personeller</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.ad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.soyad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DepartmanID)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.soyad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DepartmanID)
+            </td>
+            <td>
+                @Html.ActionLink("Guncelle", "PersonelGuncelle", new { id=item.id }) |
+                
+                @Html.ActionLink("Sil", "PersonelSil", new { id = item.id })
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

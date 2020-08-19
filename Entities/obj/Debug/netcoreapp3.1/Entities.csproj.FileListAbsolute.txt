@@ -1,0 +1,8 @@
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\Entities\bin\Debug\netcoreapp3.1\Entities.deps.json
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\Entities\bin\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\Entities\bin\Debug\netcoreapp3.1\Entities.pdb
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfoInputs.cache
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\Entities\obj\Debug\netcoreapp3.1\Entities.AssemblyInfo.cs
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\Entities\obj\Debug\netcoreapp3.1\Entities.csproj.CoreCompileInputs.cache
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\Entities\obj\Debug\netcoreapp3.1\Entities.dll
+C:\Users\Baris\source\apiProjeleri\KatmanliWepApiProjesi\Entities\obj\Debug\netcoreapp3.1\Entities.pdb
